@@ -62,7 +62,7 @@
 - **Delivery-Backend-App** — course backend in C#/ASP.NET Core + EF + PostgreSQL + JWT.
 
 > **Open to teaming up** on backend/microservices work.  
-> You can also peek at my **Organizations** for team projects (e.g., **[IbraTeam](https://github.com/IbraTeam)**).
+> You can also peek at my **Organizations** for team projects (e.g., **[IbraTeam](https://github.com/IbraTeam)**, **[HITS Internship system](https://github.com/HITS-STAJKI)**).
 
 > Pinned projects live on my profile — feel free to explore the repos.
 
