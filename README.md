@@ -47,7 +47,7 @@
 ## 🛡️ Coreshield — commercial project
 
 > I’m currently building **Coreshield**, a Telegram-based VPN subscription service bot (secure payments, automated key delivery, simple onboarding & support).  
-> Try it here: **https://t.me/coreshieldvpnbot**
+> Try it here: **[https://t.me/coreshieldvpnbot](https://t.me/coreshieldvpnbot?start=5DDW2N5f)**
 
 ---
 
